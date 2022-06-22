@@ -23,4 +23,4 @@ Salinwasu thiangtham
 - Using Cosine Similarity : to create Association making recommendations based on the rules
 
 **Result Program**  
-![step1](./slide_ppt/Picture.png) 
+
