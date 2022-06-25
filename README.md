@@ -1,5 +1,5 @@
-# Project Subject BADS6001 : IntroBads
-
+# Program suggests meals using the ingredients that are available
+ 
 Project “ What ingredient do you have?"
   
 **Project organizers**  
