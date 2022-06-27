@@ -1,5 +1,4 @@
-# Program suggests meals using the ingredients that are available
- 
+# A program to recommend food from ingredients that are available in the house.   
 Project “ What ingredient do you have?"
   
 **Project organizers**  
